@@ -4,7 +4,7 @@ public class Calcmul {
 
   public int mul() {
     //Adding comments
-    return 3 * 6;
+    return 4 * 5;
   
   }
   
